@@ -1,0 +1,47 @@
+h1{
+    background-color:black;
+    text-align: center;
+    color: aliceblue;
+    
+}
+
+.query-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    
+    
+}
+
+.query-form h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+.query-form label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+.query-form input, .query-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.query-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #28a745;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.query-form button:hover {
+    background-color: #218838;
+}
